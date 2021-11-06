@@ -24,12 +24,6 @@
   "devDependencies": {
     "@commitlint/cli": "^14.1.0",
     "@commitlint/config-conventional": "^14.1.0",
-    "commitizen": "^4.2.4",
     "husky": "^7.0.4"
-  },
-  "config": {
-    "commitizen": {
-      "path": "cz-conventional-changelog"
-    }
   }
 }
